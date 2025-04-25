@@ -35,7 +35,10 @@ Benefits:
 Saves time for users managing numerous custom nodes.
 Reduces errors from manual dependency installation.
 Portable and adaptable to different ComfyUI directory structures.
-Use Case: Ideal for ComfyUI users with extensive custom node setups.
+
+Use Case:
+
+Ideal for ComfyUI users with extensive custom node setups.
 
 # 6. Credentials
 
