@@ -1,15 +1,15 @@
-# Summary
-
-This tool automates the installation of dependencies for all custom nodes in a ComfyUI installation, streamlining the setup process for users with multiple custom nodes.
-
 # 1. Install
 
-Place the install_custom_nodes_requirements.bat above your ComfyUI installation
-Place the instal_custom_n_nodes_requirements.py inside your ComfyUI installation
+Place the install_custom_nodes_requirements.bat above your ComfyUI folder.
+Place the instal_custom_n_nodes_requirements.py inside your ComfyUI folder.
 
 # 2. Run
 
 Just double-click on the .bat and install all requirements.txt in your custom_nodes subfolders.
+
+# Summary
+
+This tool automates the installation of dependencies for all custom nodes in a ComfyUI installation, streamlining the setup process for users with multiple custom nodes.
 
 # Motivation
 
