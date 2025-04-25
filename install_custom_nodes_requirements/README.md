@@ -7,15 +7,15 @@ Place the instal_custom_n_nodes_requirements.py inside your ComfyUI folder.
 
 Just double-click on the .bat and install all requirements.txt in your custom_nodes subfolders.
 
-# Summary
+# 3. Summary
 
 This tool automates the installation of dependencies for all custom nodes in a ComfyUI installation, streamlining the setup process for users with multiple custom nodes.
 
-# Motivation
+# 4. Motivation
 
 Currently users are getting highly frustrated when they break their venv. Some installations like sageattention + triton require different cuda, pytorch, cuddn configurations and 3d-pack others. To sort this out more easily and to repair the dependencies for all custom_nodes this can be an update_all feature targeted for custom_node requirements
 
-# Details
+# 5. Details
 
 Functionality:
 
@@ -29,6 +29,7 @@ Automates dependency installation for custom nodes like comfyui-reactor, ComfyUI
 Handles permissions issues by recommending Administrator mode.
 Skips already installed packages to avoid redundant installations.
 Provides clear output for success or errors per node.
+
 Benefits:
 
 Saves time for users managing numerous custom nodes.
@@ -36,7 +37,7 @@ Reduces errors from manual dependency installation.
 Portable and adaptable to different ComfyUI directory structures.
 Use Case: Ideal for ComfyUI users with extensive custom node setups.
 
-# Credentials
+# 6. Credentials
 
 brought to you by sirolim
 https://www.linkedin.com/in/peter-schwarz-a00495172/
