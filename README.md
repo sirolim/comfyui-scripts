@@ -1,2 +1,3 @@
 # comfyui-scripts
-scripts to make our lifes in comfyui easier
+
+Scripts to make our lifes in ComfyUI easier.
